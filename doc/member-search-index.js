@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.snorri.devannotations","c":"DevAnnotationsMain","l":"DevAnnotationsMain()","u":"%3Cinit%3E()"},{"p":"org.snorri.devannotations","c":"DevAnnotationsMain","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
