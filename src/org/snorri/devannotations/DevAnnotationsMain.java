@@ -1,4 +1,4 @@
-package org.snorri.all;
+package org.snorri.devannotations;
 
 public class DevAnnotationsMain {
     public static void main(String[] args) {

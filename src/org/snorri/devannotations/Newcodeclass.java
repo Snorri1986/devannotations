@@ -1,4 +1,4 @@
-package org.snorri.all;
+package org.snorri.devannotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
